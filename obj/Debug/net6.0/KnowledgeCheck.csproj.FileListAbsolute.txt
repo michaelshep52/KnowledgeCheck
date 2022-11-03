@@ -1,0 +1,15 @@
+/Users/michaelshepherd/Desktop/KCheck2/KnowledgeCheck/bin/Debug/net6.0/KnowledgeCheck
+/Users/michaelshepherd/Desktop/KCheck2/KnowledgeCheck/bin/Debug/net6.0/KnowledgeCheck.deps.json
+/Users/michaelshepherd/Desktop/KCheck2/KnowledgeCheck/bin/Debug/net6.0/KnowledgeCheck.runtimeconfig.json
+/Users/michaelshepherd/Desktop/KCheck2/KnowledgeCheck/bin/Debug/net6.0/KnowledgeCheck.dll
+/Users/michaelshepherd/Desktop/KCheck2/KnowledgeCheck/bin/Debug/net6.0/KnowledgeCheck.pdb
+/Users/michaelshepherd/Desktop/KCheck2/KnowledgeCheck/obj/Debug/net6.0/KnowledgeCheck.csproj.AssemblyReference.cache
+/Users/michaelshepherd/Desktop/KCheck2/KnowledgeCheck/obj/Debug/net6.0/KnowledgeCheck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelshepherd/Desktop/KCheck2/KnowledgeCheck/obj/Debug/net6.0/KnowledgeCheck.AssemblyInfoInputs.cache
+/Users/michaelshepherd/Desktop/KCheck2/KnowledgeCheck/obj/Debug/net6.0/KnowledgeCheck.AssemblyInfo.cs
+/Users/michaelshepherd/Desktop/KCheck2/KnowledgeCheck/obj/Debug/net6.0/KnowledgeCheck.csproj.CoreCompileInputs.cache
+/Users/michaelshepherd/Desktop/KCheck2/KnowledgeCheck/obj/Debug/net6.0/KnowledgeCheck.dll
+/Users/michaelshepherd/Desktop/KCheck2/KnowledgeCheck/obj/Debug/net6.0/refint/KnowledgeCheck.dll
+/Users/michaelshepherd/Desktop/KCheck2/KnowledgeCheck/obj/Debug/net6.0/KnowledgeCheck.pdb
+/Users/michaelshepherd/Desktop/KCheck2/KnowledgeCheck/obj/Debug/net6.0/KnowledgeCheck.genruntimeconfig.cache
+/Users/michaelshepherd/Desktop/KCheck2/KnowledgeCheck/obj/Debug/net6.0/ref/KnowledgeCheck.dll
