@@ -16,9 +16,8 @@ namespace KnowledgeCheck
         {
             TruckId = truckId;
         }
-        public bool isChev
         public int TruckId { get; private set; }
-        public string Name { get; set; }
+        public string? Name { get; set; }
         public int Year { get; set; }
         public int NumOfWheels = 4;
          public List<Truck> Retrieve() //gets a full list of vehicles

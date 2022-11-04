@@ -17,9 +17,9 @@ namespace KnowledgeCheck
         }
 
         public int VehicleId { get; private set; }
-        public string Brand { get; set; }
-        public string Model { get; set; }
-        public string Color { get; set; }
+        public string? Brand { get; set; }
+        public string? Model { get; set; }
+        public string? Color { get; set; }
 
         public Vehicle Retrieve(int VehicleId) //get a specific vehicle
         {
