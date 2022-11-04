@@ -16,6 +16,7 @@ namespace KnowledgeCheck
         {
             TruckId = truckId;
         }
+        public bool isChev
         public int TruckId { get; private set; }
         public string Name { get; set; }
         public int Year { get; set; }

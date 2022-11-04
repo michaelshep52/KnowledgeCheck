@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/michaelshepherd/Desktop/KCheck2/KnowledgeCheck/KnowledgeCheck.csproj": {}
+    "/Users/michaelshepherd/Desktop/KnowledgeCheck/KnowledgeCheck.csproj": {}
   },
   "projects": {
-    "/Users/michaelshepherd/Desktop/KCheck2/KnowledgeCheck/KnowledgeCheck.csproj": {
+    "/Users/michaelshepherd/Desktop/KnowledgeCheck/KnowledgeCheck.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/michaelshepherd/Desktop/KCheck2/KnowledgeCheck/KnowledgeCheck.csproj",
+        "projectUniqueName": "/Users/michaelshepherd/Desktop/KnowledgeCheck/KnowledgeCheck.csproj",
         "projectName": "KnowledgeCheck",
-        "projectPath": "/Users/michaelshepherd/Desktop/KCheck2/KnowledgeCheck/KnowledgeCheck.csproj",
+        "projectPath": "/Users/michaelshepherd/Desktop/KnowledgeCheck/KnowledgeCheck.csproj",
         "packagesPath": "/Users/michaelshepherd/.nuget/packages/",
-        "outputPath": "/Users/michaelshepherd/Desktop/KCheck2/KnowledgeCheck/obj/",
+        "outputPath": "/Users/michaelshepherd/Desktop/KnowledgeCheck/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/michaelshepherd/.nuget/NuGet/NuGet.Config"
